@@ -9,7 +9,7 @@ html,body{
   height: 100%;
   width: 100%;
   place-items: center;
-  background: #FFF;
+  background: #000;
 }
 .wrapper{
   display: inline-flex;
